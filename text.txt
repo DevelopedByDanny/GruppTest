@@ -4,3 +4,4 @@ Jag har gjort en text
 Rad två
 test code som funkar
 en rad till
+rad 7
